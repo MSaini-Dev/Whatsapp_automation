@@ -1,0 +1,3 @@
+{"timestamp":"2025-09-19T05:58:40.603Z","orderId":"ORD520173","customerName":"Misty Saini 🩷","phone":"917240560550","items":"Bourbon Biscuits x4 pack, Marie Gold Biscuits x2 pack, Paneer x1kg","totalAmount":250}
+{"timestamp":"2025-09-19T06:11:38.436Z","orderId":"ORD297972","customerName":"Clg Hemant","phone":"918955765583","items":"Amul Butter x2 100g","totalAmount":104}
+{"timestamp":"2025-09-19T09:51:33.851Z","orderId":"ORD493571","customerName":"Misty Saini 🩷","phone":"917240560550","items":"Potatoes x5kg, Apples x5kg, Onions x5kg, Moong Dal x2kg, Toor Dal x250g, Bourbon Biscuits x5 pack","totalAmount":1368}

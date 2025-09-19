@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build / cache
+dist/
+build/
+.cache/
+.next/
+out/
+.tmp/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Service account keys (Google, Firebase, etc.)
+service-account.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Render / deployment
+render.yaml
+
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+service-account.json
+
+# WhatsApp session and cache
+whatsapp-session/
+.wwebjs_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
